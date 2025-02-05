@@ -1,9 +1,3 @@
--- "PARAMETROS_GENERALES".repartidores definition
-
--- Drop table
-
--- DROP TABLE "PARAMETROS_GENERALES".repartidores;
-
 CREATE TABLE "PARAMETROS_GENERALES".repartidores (
 	id serial4 NOT NULL,
 	nombre varchar(20) NULL,

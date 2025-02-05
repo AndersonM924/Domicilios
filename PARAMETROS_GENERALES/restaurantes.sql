@@ -1,9 +1,3 @@
--- "PARAMETROS_GENERALES".restaurantes definition
-
--- Drop table
-
--- DROP TABLE "PARAMETROS_GENERALES".restaurantes;
-
 CREATE TABLE "PARAMETROS_GENERALES".restaurantes (
 	id serial4 NOT NULL,
 	nombre varchar(240) NOT NULL,

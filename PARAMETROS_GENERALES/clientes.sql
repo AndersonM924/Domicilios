@@ -1,9 +1,3 @@
--- "PARAMETROS_GENERALES".clientes definition
-
--- Drop table
-
--- DROP TABLE "PARAMETROS_GENERALES".clientes;
-
 CREATE TABLE "PARAMETROS_GENERALES".clientes (
 	id serial4 NOT NULL,
 	nombre varchar(100) NOT NULL,

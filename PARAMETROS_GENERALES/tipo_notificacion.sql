@@ -1,9 +1,3 @@
--- "PARAMETROS_GENERALES".tipo_notificacion definition
-
--- Drop table
-
--- DROP TABLE "PARAMETROS_GENERALES".tipo_notificacion;
-
 CREATE TABLE "PARAMETROS_GENERALES".tipo_notificacion (
 	id serial4 NOT NULL,
 	nombre varchar(100) NOT NULL,

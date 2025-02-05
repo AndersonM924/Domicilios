@@ -1,9 +1,3 @@
--- "PARAMETROS_GENERALES".ciudad definition
-
--- Drop table
-
--- DROP TABLE "PARAMETROS_GENERALES".ciudad;
-
 CREATE TABLE "PARAMETROS_GENERALES".ciudad (
 	id serial4 NOT NULL,
 	nombre varchar(100) NOT NULL,

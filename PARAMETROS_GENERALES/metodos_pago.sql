@@ -1,9 +1,3 @@
--- "PARAMETROS_GENERALES".metodos_pago definition
-
--- Drop table
-
--- DROP TABLE "PARAMETROS_GENERALES".metodos_pago;
-
 CREATE TABLE "PARAMETROS_GENERALES".metodos_pago (
 	id serial4 NOT NULL,
 	nombre varchar(100) NOT NULL,

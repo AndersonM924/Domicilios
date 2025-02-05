@@ -1,9 +1,3 @@
--- "PARAMETROS_GENERALES".pais definition
-
--- Drop table
-
--- DROP TABLE "PARAMETROS_GENERALES".pais;
-
 CREATE TABLE "PARAMETROS_GENERALES".pais (
 	id serial4 NOT NULL,
 	nombre varchar(100) NOT NULL,
